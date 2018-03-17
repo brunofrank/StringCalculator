@@ -69,4 +69,9 @@ public class CalculatorTest {
         assertEquals("Negatives not allowed: [-6, -18]", exception.getMessage());
     }
 
+    @Test
+    public final void whenOneOrMoreNumbersAreGreaterThan1000IsUsedThenItIsNotIncludedInSum() {
+        assertEquals(3+1000+6, calc.Add("3,1000,1001,6,1234"));
+    }
+
 }

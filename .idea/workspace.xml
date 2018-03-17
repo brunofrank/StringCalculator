@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72f9a2a5-da29-4c8b-abb6-85e0590a277d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/Calculator.java" afterPath="$PROJECT_DIR$/src/Calculator.java" />
       <change beforePath="$PROJECT_DIR$/tests/CalculatorTest.java" afterPath="$PROJECT_DIR$/tests/CalculatorTest.java" />
     </list>
@@ -19,11 +18,10 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="465">
+              <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#752#761#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -32,8 +30,8 @@
       <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="482">
+              <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
               <folding>
                 <element signature="e#951#952#0" expanded="true" />
                 <element signature="e#982#983#0" expanded="true" />
@@ -282,12 +280,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest - 2018.03.16 at 22h 49m 38s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.03.16 at 22h 50m 04s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest - 2018.03.16 at 22h 52m 15s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
@@ -310,6 +302,12 @@
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CalculatorTest - 2018.03.16 at 23h 00m 40s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2018.03.16 at 23h 02m 02s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2018.03.16 at 23h 02m 15s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -374,15 +372,14 @@
           <caret line="4" column="89" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#752#761#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="482">
+          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
           <folding>
             <element signature="e#951#952#0" expanded="true" />
             <element signature="e#982#983#0" expanded="true" />
@@ -400,11 +397,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="465">
+          <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#752#761#0" expanded="true" />
           </folding>
         </state>
       </provider>
