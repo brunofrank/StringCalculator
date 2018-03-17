@@ -53,4 +53,20 @@ public class CalculatorTest {
         assertEquals(3+6, calc.Add("3,6"));
     }
 
+    @Test(expected = RuntimeException.class)
+    public final void whenNegativeNumberIsUsedThenRuntimeExceptionIsThrown() {
+        calc.Add("3,-6,15,18,46,33");
+    }
+    @Test
+    public final void whenNegativeNumbersAreUsedThenRuntimeExceptionIsThrown() {
+        RuntimeException exception = null;
+        try {
+            calc.Add("3,-6,15,-18,46,33");
+        } catch (RuntimeException e) {
+            exception = e;
+        }
+        assertNotNull(exception);
+        assertEquals("Negatives not allowed: [-6, -18]", exception.getMessage());
+    }
+
 }
