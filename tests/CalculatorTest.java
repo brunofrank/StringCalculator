@@ -27,4 +27,9 @@ public class CalculatorTest {
     public final void whenNonNumberIsUsedThenExceptionIsThrown() {
         calc.Add("1,X");
     }
+
+    @Test
+    public final void whenEmptyStringIsUsedThenReturnValueIs0() {
+        assertEquals(0, calc.Add(""));
+    }
 }
