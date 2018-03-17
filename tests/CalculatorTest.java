@@ -32,4 +32,15 @@ public class CalculatorTest {
     public final void whenEmptyStringIsUsedThenReturnValueIs0() {
         assertEquals(0, calc.Add(""));
     }
+
+    @Test
+    public final void whenOneNumberIsUsedThenReturnValueIsThatSameNumber() {
+        assertEquals(3, calc.Add("3"));
+    }
+
+    @Test
+    public final void whenTwoNumbersAreUsedThenReturnValueIsTheirSum() {
+        assertEquals(3+6, calc.Add("3,6"));
+    }
+
 }
