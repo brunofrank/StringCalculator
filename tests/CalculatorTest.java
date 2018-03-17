@@ -12,9 +12,9 @@ public class CalculatorTest {
         calc = new Calculator();
     }
 
-    @Test(expected = RuntimeException.class)
-    public final void whenMoreThan2NumbersAreUsedThenExceptionIsThrown() {
-        calc.Add("1,2,3");
+    @Test
+    public final void whenAnyNumberOfNumbersIsUsedThenReturnValuesAreTheirSums() {
+        assertEquals(3+6+15+18+46+33, calc.Add("3,6,15,18,46,33"));
     }
 
     @Test
