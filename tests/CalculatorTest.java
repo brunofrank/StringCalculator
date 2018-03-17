@@ -18,6 +18,11 @@ public class CalculatorTest {
     }
 
     @Test
+    public final void whenDelimiterIsSpecifiedThenItIsUsedToSeparateNumbers() {
+        assertEquals(3+6+15, calc.Add("//;n3;6;15"));
+    }
+
+    @Test
     public final void whenNewLineIsUsedBetweenNumbersThenReturnValuesAreTheirSums() {
         assertEquals(3+6+15, calc.Add("3,6n15"));
     }
