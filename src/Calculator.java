@@ -1,11 +1,10 @@
 public class Calculator {
     public int Add(String numbers){
         int returnValue = 0;
-        String[] numbersArray = numbers.split(",");
-
+        String[] numbersArray = numbers.split(",|n"); // Added |n to the split regex
         for (String number : numbersArray) {
-            if (!number.trim().isEmpty()) { // After refactoring
-                returnValue += Integer.parseInt(number);
+            if (!number.trim().isEmpty()) {
+                returnValue += Integer.parseInt(number.trim());
             }
         }
         return returnValue;

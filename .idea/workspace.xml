@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72f9a2a5-da29-4c8b-abb6-85e0590a277d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/Calculator.java" afterPath="$PROJECT_DIR$/src/Calculator.java" />
       <change beforePath="$PROJECT_DIR$/tests/CalculatorTest.java" afterPath="$PROJECT_DIR$/tests/CalculatorTest.java" />
     </list>
@@ -15,30 +16,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
               <folding>
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
                 <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#934#935#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1221#1222#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,8 +71,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Calculator.java" />
         <option value="$PROJECT_DIR$/tests/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/Calculator.java" />
       </list>
     </option>
   </component>
@@ -276,9 +277,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest - 2018.03.16 at 22h 36m 18s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest - 2018.03.16 at 22h 47m 29s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
@@ -295,6 +293,9 @@
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CalculatorTest - 2018.03.16 at 22h 53m 16s.xml">
+      <configuration name="CalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest - 2018.03.16 at 22h 54m 49s.xml">
       <configuration name="CalculatorTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CalculatorTest_whenEmptyStringIsUsedThenReturnValueIs0 - 2018.03.16 at 22h 46m 36s.xml">
@@ -348,14 +349,14 @@
         <state relative-caret-position="285">
           <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
             <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -368,28 +369,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/tests/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/CalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
